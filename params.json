@@ -1,6 +1,6 @@
 {
   "name": "展示 GitHub Pages 怎么用",
   "tagline": "很简单的~",
-  "body": "这里用 Markdown 格式编辑。\r\n\r\n### GitPages 是什么？\r\n\r\n……\r\n\r\n### GitPages 怎么用？\r\n\r\n最快的方式就是用自带的 generator。",
+  "body": "# gh-pages-demo\r\nDemonstrate how to use GitHub Pages\r\n\r\n![](01.png)\r\n\r\n![](02.png)\r\n\r\n![](03.png)\r\n\r\n![](04.png)\r\n\r\n![](05.png)\r\n\r\n![](06.png)\r\n\r\n![](07.png)\r\n\r\n![](08.png)\r\n\r\n![](09.png)\r\n\r\n![](10.png)\r\n\r\n![](11.png)\r\n\r\n![](12.png)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
