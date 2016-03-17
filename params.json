@@ -1,0 +1,6 @@
+{
+  "name": "展示 GitHub Pages 怎么用",
+  "tagline": "很简单的~",
+  "body": "这里用 Markdown 格式编辑。\r\n\r\n### GitPages 是什么？\r\n\r\n……\r\n\r\n### GitPages 怎么用？\r\n\r\n最快的方式就是用自带的 generator。",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
